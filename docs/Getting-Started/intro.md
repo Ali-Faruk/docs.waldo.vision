@@ -53,4 +53,4 @@ If you don't understand something in the documentation, you are experiencing pro
 - [Discord](bit.ly/3mqDTV0)
 - [Twitter](https://twitter.com/waldo_vision)
 - [YouTube](https://www.youtube.com/user/PappaZeee)
-- [License](https://www.mozilla.org/en-US/MPL/2.0/)
+- [License](https://www.mozilla.org/en-US/MPL/2.0/)s
